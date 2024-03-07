@@ -1,5 +1,5 @@
 package lab_6;
-/*
+
 public class BlackFriday{
     public Electronic [] electronics;
     public Books [] books;
@@ -37,4 +37,3 @@ public class BlackFriday{
         }
     }
 }
-*/
